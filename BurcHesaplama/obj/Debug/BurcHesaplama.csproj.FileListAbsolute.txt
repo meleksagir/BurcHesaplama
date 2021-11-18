@@ -1,0 +1,10 @@
+C:\Users\melek.sagir\source\repos\BurcHesaplama\BurcHesaplama\bin\Debug\BurcHesaplama.exe.config
+C:\Users\melek.sagir\source\repos\BurcHesaplama\BurcHesaplama\bin\Debug\BurcHesaplama.exe
+C:\Users\melek.sagir\source\repos\BurcHesaplama\BurcHesaplama\bin\Debug\BurcHesaplama.pdb
+C:\Users\melek.sagir\source\repos\BurcHesaplama\BurcHesaplama\obj\Debug\BurcHesaplama.csproj.AssemblyReference.cache
+C:\Users\melek.sagir\source\repos\BurcHesaplama\BurcHesaplama\obj\Debug\BurcHesaplama.Form1.resources
+C:\Users\melek.sagir\source\repos\BurcHesaplama\BurcHesaplama\obj\Debug\BurcHesaplama.Properties.Resources.resources
+C:\Users\melek.sagir\source\repos\BurcHesaplama\BurcHesaplama\obj\Debug\BurcHesaplama.csproj.GenerateResource.cache
+C:\Users\melek.sagir\source\repos\BurcHesaplama\BurcHesaplama\obj\Debug\BurcHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\melek.sagir\source\repos\BurcHesaplama\BurcHesaplama\obj\Debug\BurcHesaplama.exe
+C:\Users\melek.sagir\source\repos\BurcHesaplama\BurcHesaplama\obj\Debug\BurcHesaplama.pdb
